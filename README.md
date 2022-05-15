@@ -10,7 +10,7 @@ I helped them organize the spreadsheets into a linked database using SQL.
 
 * Most of the employees that are eligbile for retirement soon are in Senior Engineer & Senior Staff positions - right around 70%. This means that there will likely be many important roles that will need to be staffed in the upcoming years.
 
-![count of employees retiring soon as % of total](Resources\retiring_soon_%of_total.png)
+![count of employees retiring soon as % of total](Resources/total_percents.png)
 
 * Most of the emplyoyees that are eligible to be mentors are also mostly Senior Engineers & Senior Staffs. This means that PH is at risk of losing employees that could help mentor the next generation of senior employees. They should perhaps expand mentorship eligibility or incentifize being a mentor so they don't run out of candidates.
 
